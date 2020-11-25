@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplicacion 25</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_anyadir">Añadir</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="titol">Titulo</string>
+    <string name="subtitol">SubTitulo</string>
+</resources>
